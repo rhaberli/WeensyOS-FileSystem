@@ -1,0 +1,20 @@
+Name: Roman Haberli 
+net ID: rmh444
+NYU ID(N#): N15784589
+
+Collaborators (who you talked to about the lab, what you talked about):
+Tutors at NYU 
+
+Source material that you consulted:
+man pages, other files like kernel.h for additional documentation
+
+Other acknowledgments:
+
+
+How long did this lab take you?
+2.5 weeks 
+
+Anything else you'd like us to know:
+Nothing at the moment. But the lab was pretty challenging. 
+
+Extra credit exercise(s) (describe what you coded):
